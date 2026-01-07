@@ -41,12 +41,13 @@ A sleek suite of web utilities built for speed and productivity.
 - **Features:** Weather Station, JSON DevTools, Currency Converter, Password Generator.
 - **[Live Demo](https://toolly.netlify.app)**
 
-### 3. [Offline Chess](https://github.com/princekumar-git/chess)
+### 3. [Chess](https://github.com/princekumar-git/chess)
 A robust chess game implemented with pure logic and rendering.
 - **Tech Stack:** Vanilla JavaScript, HTML5 Canvas, CSS3
 - **Features:** Full game logic, pawn promotion, checkmate detection, move validation.
+- **[Play](https://chessbyprince.netlify.app)**
 
-### 4. [Campus Manager (Prototype)](https://github.com/princekumar-git/prototype-campus-code-)
+### 4. [CampusCode (Prototype)](https://github.com/princekumar-git/prototype-campus-code-)
 A comprehensive management system prototype for educational institutions.
 - **Tech Stack:** HTML, JavaScript, Dashboard Design
 - **Features:** Modules for Admins, HODs, Faculty, and Students.
@@ -55,10 +56,10 @@ A comprehensive management system prototype for educational institutions.
 
 ## 🏆 Certifications
 
-- **Python for Everybody** - University of Michigan (Coursera)
+- **Python Zero to Hero** - GUVI
 - **Full Stack Web Development** - Udemy Bootcamp
-- **Back End Development & APIs** - FreeCodeCamp
-- **AWS Cloud Practitioner** - Amazon Web Services
+- **Introduction to Cybersecurity** - CISCO
+- **Getting started with AI** - IBM
 
 ---
 
